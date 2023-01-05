@@ -1,0 +1,10 @@
+body{color: black;
+    background-color: wheat;
+}
+.card-body{
+    color: black;
+    background-color:wheat;
+}
+#addTxt{
+    background-color: rgb(254, 248, 248);
+}
